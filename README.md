@@ -1,4 +1,4 @@
-# Daruma - AI-Powered Text-to-Speech Application
+# Daruma: AI-Powered Text-to-Speech Application
 
 Daruma is a Flask-based web application that converts text into natural-sounding speech using AI technologies. It leverages Google's Gemini AI for character analysis and Eleven Labs for high-quality voice synthesis.
 
